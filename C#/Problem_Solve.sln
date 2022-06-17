@@ -33,7 +33,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Restoring_Password_94A", "R
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "University_Classes_847G", "University_Classes_847G\University_Classes_847G.csproj", "{DD830251-7F73-4A87-B61F-B90F12C2BE0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polycarp_and_Letters_864B", "Polycarp_and_Letters_864B\Polycarp_and_Letters_864B.csproj", "{0348B010-601B-4F93-9858-EBAECF95E009}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polycarp_and_Letters_864B", "Polycarp_and_Letters_864B\Polycarp_and_Letters_864B.csproj", "{0348B010-601B-4F93-9858-EBAECF95E009}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A_Soldier_and_Bananas", "A_Soldier_and_Bananas\A_Soldier_and_Bananas.csproj", "{E7CA22B0-AF50-4969-89B9-35A8074831E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "An_Elephant", "An_Elephant\An_Elephant.csproj", "{ECDAF18F-B038-4ADF-A05B-94216AA4FF36}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +109,14 @@ Global
 		{0348B010-601B-4F93-9858-EBAECF95E009}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0348B010-601B-4F93-9858-EBAECF95E009}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0348B010-601B-4F93-9858-EBAECF95E009}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7CA22B0-AF50-4969-89B9-35A8074831E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7CA22B0-AF50-4969-89B9-35A8074831E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7CA22B0-AF50-4969-89B9-35A8074831E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7CA22B0-AF50-4969-89B9-35A8074831E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECDAF18F-B038-4ADF-A05B-94216AA4FF36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECDAF18F-B038-4ADF-A05B-94216AA4FF36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECDAF18F-B038-4ADF-A05B-94216AA4FF36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECDAF18F-B038-4ADF-A05B-94216AA4FF36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
