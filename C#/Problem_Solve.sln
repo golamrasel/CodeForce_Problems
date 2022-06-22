@@ -39,15 +39,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A_Soldier_and_Bananas", "A_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "An_Elephant", "An_Elephant\An_Elephant.csproj", "{ECDAF18F-B038-4ADF-A05B-94216AA4FF36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A_Word", "A_Word\A_Word.csproj", "{FD0F9869-DF19-40D1-9099-DB5043AF7FBD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A_Word", "A_Word\A_Word.csproj", "{FD0F9869-DF19-40D1-9099-DB5043AF7FBD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A_Wrong_Subtraction", "A_Wrong_Subtraction\A_Wrong_Subtraction.csproj", "{A5B8B50A-CE6F-4328-84C1-28C75EB36C49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A_Wrong_Subtraction", "A_Wrong_Subtraction\A_Wrong_Subtraction.csproj", "{A5B8B50A-CE6F-4328-84C1-28C75EB36C49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A_Tram", "A_Tram\A_Tram.csproj", "{B7B0D700-D4B4-4301-A420-FE75EF102DA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A_Tram", "A_Tram\A_Tram.csproj", "{B7B0D700-D4B4-4301-A420-FE75EF102DA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A_Nearly_Lucky_Number", "A_Nearly_Lucky_Number\A_Nearly_Lucky_Number.csproj", "{410AC49E-96F9-4940-ADEF-45ABF6A46808}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A_Nearly_Lucky_Number", "A_Nearly_Lucky_Number\A_Nearly_Lucky_Number.csproj", "{410AC49E-96F9-4940-ADEF-45ABF6A46808}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B_Queue_at_the_School", "B_Queue_at_the_School\B_Queue_at_the_School.csproj", "{99B3F51B-48B9-48BA-8882-847CE76509A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B_Queue_at_the_School", "B_Queue_at_the_School\B_Queue_at_the_School.csproj", "{99B3F51B-48B9-48BA-8882-847CE76509A4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A_Chat_room", "A_Chat_room\A_Chat_room.csproj", "{DBDDF4AB-9DF4-48CF-9A73-579B18EA353B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A_Anton_and_Danik", "A_Anton_and_Danik\A_Anton_and_Danik.csproj", "{1FA78112-9959-436A-8FDE-302D910DD28A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A_Translation", "A_Translation\A_Translation.csproj", "{F916C6BC-47A3-418C-988B-54D5C51F9E5F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +153,18 @@ Global
 		{99B3F51B-48B9-48BA-8882-847CE76509A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99B3F51B-48B9-48BA-8882-847CE76509A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99B3F51B-48B9-48BA-8882-847CE76509A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBDDF4AB-9DF4-48CF-9A73-579B18EA353B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBDDF4AB-9DF4-48CF-9A73-579B18EA353B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBDDF4AB-9DF4-48CF-9A73-579B18EA353B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBDDF4AB-9DF4-48CF-9A73-579B18EA353B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FA78112-9959-436A-8FDE-302D910DD28A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FA78112-9959-436A-8FDE-302D910DD28A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FA78112-9959-436A-8FDE-302D910DD28A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FA78112-9959-436A-8FDE-302D910DD28A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F916C6BC-47A3-418C-988B-54D5C51F9E5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F916C6BC-47A3-418C-988B-54D5C51F9E5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F916C6BC-47A3-418C-988B-54D5C51F9E5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F916C6BC-47A3-418C-988B-54D5C51F9E5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
