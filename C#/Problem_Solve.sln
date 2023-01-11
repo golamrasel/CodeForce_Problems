@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30104.148
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Football_43A", "Football\Football_43A.csproj", "{C3D9B1A9-013D-4A7A-AE6A-E4653336FBCB}"
 EndProject
@@ -63,11 +63,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A_Vanya_and_Fence", "A_Vany
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A_Twins", "A_Twins\A_Twins.csproj", "{D765EEBB-68C5-48CA-A680-57E037CF4807}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A_George_and_Accommodation", "A_George_and_Accommodation\A_George_and_Accommodation.csproj", "{E405814F-2C22-40F4-BBFD-C75EE31248A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A_George_and_Accommodation", "A_George_and_Accommodation\A_George_and_Accommodation.csproj", "{E405814F-2C22-40F4-BBFD-C75EE31248A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A_In_Search_of_an_Easy_Problem", "A_In_Search_of_an_Easy_Problem\A_In_Search_of_an_Easy_Problem.csproj", "{F6CF8874-1559-44C5-8B52-7E0B9361A954}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A_In_Search_of_an_Easy_Problem", "A_In_Search_of_an_Easy_Problem\A_In_Search_of_an_Easy_Problem.csproj", "{F6CF8874-1559-44C5-8B52-7E0B9361A954}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A_Presents", "A_Presents\A_Presents.csproj", "{BB067A4F-73EF-4C91-AB1E-4574F9C3D2DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A_Presents", "A_Presents\A_Presents.csproj", "{BB067A4F-73EF-4C91-AB1E-4574F9C3D2DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A_Magnets", "A_Magnets\A_Magnets.csproj", "{0F11A36F-150E-430F-B2DE-588A07ADF5B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A_Calculating_Function_486A", "A_Calculating_Function_486A\A_Calculating_Function_486A.csproj", "{50F445D1-DE40-45CA-A893-F94D3B6525B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B_Drinks_200B", "B_Drinks_200B\B_Drinks_200B.csproj", "{960EDA28-B637-4A22-AC8D-C4B6AB7F4F91}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -207,6 +213,18 @@ Global
 		{BB067A4F-73EF-4C91-AB1E-4574F9C3D2DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB067A4F-73EF-4C91-AB1E-4574F9C3D2DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB067A4F-73EF-4C91-AB1E-4574F9C3D2DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F11A36F-150E-430F-B2DE-588A07ADF5B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F11A36F-150E-430F-B2DE-588A07ADF5B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F11A36F-150E-430F-B2DE-588A07ADF5B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F11A36F-150E-430F-B2DE-588A07ADF5B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50F445D1-DE40-45CA-A893-F94D3B6525B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50F445D1-DE40-45CA-A893-F94D3B6525B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50F445D1-DE40-45CA-A893-F94D3B6525B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50F445D1-DE40-45CA-A893-F94D3B6525B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{960EDA28-B637-4A22-AC8D-C4B6AB7F4F91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{960EDA28-B637-4A22-AC8D-C4B6AB7F4F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{960EDA28-B637-4A22-AC8D-C4B6AB7F4F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{960EDA28-B637-4A22-AC8D-C4B6AB7F4F91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
