@@ -85,6 +85,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A_Divisibility_Problem_1328
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A_Pangram_520A", "A_Pangram_520A\A_Pangram_520A.csproj", "{6D84964D-6299-44B8-8B20-B7F3B9380CAD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I_Wanna_Be_the_Guy_469A", "I_Wanna_Be_the_Guy_469A\I_Wanna_Be_the_Guy_469A.csproj", "{8115D3CC-D287-4813-8CFA-D81E3B4DCBF8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -255,6 +257,10 @@ Global
 		{6D84964D-6299-44B8-8B20-B7F3B9380CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D84964D-6299-44B8-8B20-B7F3B9380CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D84964D-6299-44B8-8B20-B7F3B9380CAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8115D3CC-D287-4813-8CFA-D81E3B4DCBF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8115D3CC-D287-4813-8CFA-D81E3B4DCBF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8115D3CC-D287-4813-8CFA-D81E3B4DCBF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8115D3CC-D287-4813-8CFA-D81E3B4DCBF8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
